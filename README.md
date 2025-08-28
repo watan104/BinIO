@@ -61,7 +61,7 @@ int main() {
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Binary.hpp.git
+git clone https://github.com/watan104/BinIO.git
 ```
 2. ``#include "Binary.hpp"`` in your C++ files.
 
